@@ -41,7 +41,7 @@ Welcome to my IT Portfolio.This repository contains projects I completed during 
 - Documentation and instructions are included in each project ZIP.  
 
 # Contact
-- LinkedIn: 
+- LinkedIn: linkedin.com/in/amogelang-janine-mokoena-918a03230/
 - Email: janinemoopelwa@gmail.com 
 
 This portfolio highlights my practical skills and academic projects, demonstrating my ability to solve real-world IT problems.
